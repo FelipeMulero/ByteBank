@@ -1,2 +1,2 @@
 # ByteBank
-Curso de C# Trilha para .NET na ALURA.
+Curso 02 de C# - Trilha para .NET na ALURA.
